@@ -1,0 +1,11 @@
+
+Dockerfile_github_repo
+*.json
+*.csv
+*.parquet
+yelp_data/
+test_program/
+model/reno/
+Data_Preparation_Recommendation_eat_final.ipynb
+docker_commands
+st_eat.py
