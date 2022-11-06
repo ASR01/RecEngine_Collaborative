@@ -2,10 +2,10 @@
 
 This project pretends to use pyspark and more concretely the ALS Recomendation collaborative model to get a restaurant recommendation.
 
-This project consost of twoseparat items.
+This project consist of two separate items.
 
-1. First a jupyter Notebook wehre the data analysis is done and the model is trained.
-2. A docker image of the model oowrking in a streamlit app.
+1. First a Jupyter Notebook wehre the data analysis is done and the model is trained.
+2. A docker image of the model oowrking in a Streamlit app.
 
 ## Data Preparation and Training
 
